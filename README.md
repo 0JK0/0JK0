@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hola, soy Julian!
+#### Estudiante de Desarrollo de Software | Hablante Nativo Español & Inglés) | Usuario de Linux
 
-<!--
-**0JK0/0JK0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
+Soy estudiante de desarrollo de software, enfocado en crear aplicaciones reales y funcionales. He trabajado como freelancer de Java en Fiverr, y actualmente estoy buscando una pasantía para seguir creciendo profesionalmente.  
+También estoy explorando la programación de bajo nivel con C como pasatiempo.
 
-Here are some ideas to get you started:
+## 🔧 Tecnologías que uso
+- **Lenguajes**: JavaScript, Java, Dart, C++, Python, SQL, HTML/CSS
+- **Frameworks**: React Native, Flutter, Node.js, React
+- **Bases de datos**: MongoDB, MySQL, SQLite
+- **Otros**: Git, Linux (uso diario), Neovim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contacto
+Estoy abierto a preguntas, colaboraciones o trabajo — puedes escribirme por:
+- **LinkedIn**: [Julian Monsalve](https://www.linkedin.com/in/julian-monsalve-69420-osorio/)
+- **Discord**: `jk1ng_`
+
+                        ╱|、
+                      (˚ˎ 。7  
+                       |、˜〵          
+                      じしˍ,)ノ
+
+
