@@ -1,5 +1,5 @@
 # 👋 Hola, soy Julian!
-#### Estudiante de Desarrollo de Software | Hablante Nativo Español & Inglés) | Usuario de Linux
+#### Estudiante de Desarrollo de Software | Hablante Nativo Español & Inglés | Usuario de Linux
 
 ## Sobre mí
 Soy estudiante de desarrollo de software, enfocado en crear aplicaciones reales y funcionales. He trabajado como freelancer de Java en Fiverr, y actualmente estoy buscando una pasantía para seguir creciendo profesionalmente.  
