@@ -6,7 +6,7 @@ Soy estudiante de desarrollo de software, enfocado en crear aplicaciones reales 
 También estoy explorando la programación de bajo nivel con C como pasatiempo.
 
 ## 🔧 Tecnologías que uso
-- **Lenguajes**: JavaScript, Java, Dart, C++, Python, SQL, HTML/CSS
+- **Lenguajes**: JavaScript, Java, C/C++, Python, SQL, HTML/CSS
 - **Frameworks**: React Native, Flutter, Node.js, React
 - **Bases de datos**: MongoDB, MySQL, SQLite
 - **Otros**: Git, Linux (uso diario), Neovim
